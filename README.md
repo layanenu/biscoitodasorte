@@ -1,4 +1,4 @@
-# Biscoito da sorte virtual
+# Biscoito da sorte virtual :fortune_cookie:
 ## :round_pushpin: Sobre:
 Essa página foi criada para colocar em prática os conhecimentos em ***REACT JS.***
 
