@@ -28,7 +28,7 @@ class App extends Component{
     return(
       <div className='container'>
         <img src={biscoito} alt='biscoito da sorte' className='img'/>
-        <Botao nome="Abrir Botão" acaoBtn={this.quebraBiscoito} />
+        <Botao nome="Quero uma mensagem" acaoBtn={this.quebraBiscoito} />
         <h3 className='textoFrase'>{this.state.textoFrase}</h3>
       </div>
     );
